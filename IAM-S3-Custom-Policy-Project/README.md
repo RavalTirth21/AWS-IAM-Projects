@@ -99,7 +99,7 @@ Performed an object deletion operation.
 
 ### 1️⃣3️⃣ Confirmed Object Deletion via Console  
 Verified deletion using the AWS Management Console.  
-![Step 13](14-Check-Object-Deleted-AWS-Console.png)
+![Step 13](13-Check-Object-Deleted-AWS-Console.png)
 
 ---
 

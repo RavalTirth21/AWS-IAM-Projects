@@ -57,8 +57,8 @@ Programmatic access was enabled by generating an Access Key and Secret Key.
 
 ---
 
-### 🧾 7. Access Key Saved  
-Keys were saved for AWS CLI configuration.  
+### 🧾 7. Access Key Created 
+Keys were created and ready to put in AWS CLI.  
 ![Step 7](07-Access-Key-Created.png)
 
 ---

@@ -19,8 +19,7 @@ This project focuses on creating a **custom IAM policy** for Amazon S3, attachin
 
 1. Create a **custom IAM policy** allowing specific S3 actions.
 2. Attach the policy to a **role** and a **user**.
-3. Launch an EC2 instance with the IAM role.
-4. Validate allowed and denied actions through CLI and Console.
+3. Validate allowed and denied actions through CLI and Console.
 
 ---
 
@@ -75,7 +74,7 @@ Confirmed the uploaded object appears in the S3 console.
 ---
 
 ### 9️⃣ Downloaded Object via CLI  
-Used `aws s3 cp` or `get-object` command to download the object.  
+Downloaded the file from the bucket using AWS CLI. 
 ![Step 9](09-Get-Object-CLI.png)
 
 ---

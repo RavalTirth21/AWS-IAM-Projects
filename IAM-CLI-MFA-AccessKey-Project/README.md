@@ -69,8 +69,8 @@ The IAM user was configured using `aws configure`.
 
 ---
 
-### 🔐 9. Sign-In with MFA  
-The IAM user logged into the AWS Console with MFA.  
+### 🔐 9. Sign-In with IAM User 
+The IAM user logged into the AWS Console.  
 ![Step 9](09-Sign-In-IAM-User.png)
 
 ---
@@ -101,7 +101,7 @@ The CLI-created EC2 instance confirmed successful IAM setup.
 
 ### 🧾 14. EC2 Instance Verified from Console  
 Final verification of the EC2 instance created using CLI from the AWS Console.  
-![Step 14](14-Instance-Created-CLI-Verified-AWS.png)
+![Step 14](14-Instance-Created-CLI-Verified-AWS-Console.png)
 
 ---
 

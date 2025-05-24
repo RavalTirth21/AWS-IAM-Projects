@@ -89,7 +89,7 @@ The IAM user launched an EC2 instance from the AWS Console.
 
 ### 🧑‍💻 12. EC2 Instance Launched via AWS CLI  
 The user created an EC2 instance using a command-line instruction.  
-![Step 12](12-Instance-Creation-Command-CLI.png)
+![Step 12](12-Instance-Creation-Command-CLI-IAM-User.png)
 
 ---
 

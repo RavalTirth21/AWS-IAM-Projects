@@ -12,7 +12,6 @@ This repository contains four hands-on AWS IAM practical projects demonstrating 
 - **Amazon EC2**
 - **Amazon S3**
 - **AWS CLI**
-- **MFA (Multi-Factor Authentication)**
 
 ---
 
@@ -45,9 +44,10 @@ This project includes user creation, enabling MFA, creating and configuring an I
 8. **Configure AWS CLI** – `08-AWS-Configure-CLI.png`
 9. **Login to IAM User** – `09-Sign-In-IAM-User.png`
 10. **MFA Verification** – `10-MFA-Code.png`
-11. **EC2 Launch by IAM User** – `11-Instance-Created-IAM-User.png`
-12. **EC2 Launch via CLI Command** – `12-Instance-Creation-Command-CLI.png`
-13. **Instance Creation Verified** – `14-Instance-Created-CLI-Verified-AWS.png`
+11. **EC2 Launch by IAM User in AWS Console** – `11-Instance-Created-IAM-User.png`
+12. **CLI Command to create EC2 Instance** – `12-Instance-Creation-Command-CLI.png`
+13. **EC2 Instance Launched via CLI Command** - `13-Instance-Created-CLI-IAM-User.png`
+14. **Instance Creation Verified** – `14-Instance-Created-CLI-Verified-AWS.png`
 
 ---
 
@@ -81,7 +81,7 @@ This project demonstrates creating a custom IAM policy for S3, attaching it to u
 10. **Verify File Downloaded** – `10-Check-File-Downloaded.png`
 11. **List Bucket and Object via CLI** – `11-List-Bucket-and-Object-CLI.png`
 12. **Delete Object via CLI** – `12-Delete-Object-CLI.png`
-13. **Confirm Deletion in Console** – `14-Check-Object-Deleted-AWS-Console.png`
+13. **Confirm Deletion in Console** – `13-Check-Object-Deleted-AWS-Console.png`
 
 ---
 
